@@ -1,17 +1,17 @@
 [![MasterHead](https://img.freepik.com/free-vector/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-coding-testing-it-profession-isolated-flat-vector-illustration_613284-304.jpg?w=2000)](https://mohamedtahar.com)
 <h1 align="center">Hi 👋, I'm Mohamed Tahar Atallah</h1>
-<h3 align="center">A passionate frontend developer from Algeria</h3>
+<h3 align="center">A passionate web developer from Algeria</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM5bGlyY29xdzQzdGM3M2J0bTVhdjJ4M3pua3ExM295aGVwcXpnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedtahar7&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedtahar7" /> </p>
 
 - 🌱 I’m currently learning **Backend Developement with NodeJS,Express and MongoDB**
 
-- 👨‍💻 All of my projects are available at [mohamedtahar.com](mohamedtahar.com)
+- 👨‍💻 All of my projects are available at [mohamed-tahar.vercel.app](mohamed-tahar.vercel.app)
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **taharwork7@gmail.com**
+- 📫 How to reach me **mohamedtaahar@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ykn1cxg0DQ7DwygvI-BPLbM4e4DqSqUA/view](https://drive.google.com/file/d/1Ykn1cxg0DQ7DwygvI-BPLbM4e4DqSqUA/view)
 
